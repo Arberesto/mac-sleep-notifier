@@ -6,7 +6,7 @@ Installation
 
 The library can be installed using:
 
- go get -u github.com/prashantgupta24/mac-sleep-notifier/notifier
+ go get -u github.com/Arberesto/mac-sleep-notifier/notifier
 
 Usage
 
